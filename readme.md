@@ -15,3 +15,9 @@
     <img align="center" alt="Windows para trabalho" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img align="center" alt="Estudos Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
+<br/>
+Conhecimentos adiquiridos em Cloud:
+
+
+![Gráfico de Pizza](https://github.com/Paixao-barros/imagem/blob/817c6967bd1aa6db7c488f43aec4db17ed0933e8/Captura%20de%20tela%202024-06-10%20235608.png)
+
