@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo.
 ### Me chamo Icaro Caetano da Paixão Barros, 
 <br/>
-<p align="center" style="font-size: 25px;">Eu ❤️ Resolver desafios usando a tecnologia.. <br><br> Sou um profional de infrsestrutura apaixonado por resolver problemas através da tecnologia. Gosto de enfrentar desafios usando soluções tecnológicas e estando em estudos constantes, busco aprimorar meus conhecimentos. Meu objetivo é me tornar um especialista de DevOps, adquirindo competências em ferramentas essencias, linguagens e boas práticas de melhoria contínua, integrando tudo isso aos fundamentos de desenvolvimento.</p>&nbsp;
+<p align="center" style="font-size: 25px;">Eu ❤️ Resolver desafios usando a tecnologia.. <br><br> Sou um profisional de infraestrutura apaixonado por resolver problemas através da tecnologia. Gosto de enfrentar desafios usando soluções tecnológicas e estando em estudos constantes, busco aprimorar meus conhecimentos. Meu objetivo é me tornar um especialista de DevOps, adquirindo competências em ferramentas essencias, linguagens e boas práticas de melhoria contínua, integrando tudo isso aos fundamentos de desenvolvimento.</p>&nbsp;
 
 <div style="text-align: center;">
     <img src="https://gaea.com.br/wp-content/uploads/2023/04/post_thumbnail-59518fdcba561b6ff53149b937759f99.jpeg" alt="Imagem de código" style="width 100px"; height: auto;">
