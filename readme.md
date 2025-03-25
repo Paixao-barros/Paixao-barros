@@ -63,10 +63,9 @@
 <a href="https://www.linkedin.com/in/paixao-barros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </a> 
 </div>&nbsp;&nbsp;
- 
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-[![Certificado Alura](https://img.shields.io/badge/Certificado-Alura-blue)](https://cursos.alura.com.br/formalCertificate/77f63adc-13fd-4548-96b6-e4fbcf0ba3fd)
-<a href="https://www.flaticon.com/br/icones-gratis/patente" title="patente ícones">https://cursos.alura.com.br/formalCertificate/77f63adc-13fd-4548-96b6-e4fbcf0ba3fd</a>
+
+## 🏆 Certificados
+
+[<img src="https://cdn-icons-png.flaticon.com/512/1435/1435738.png" alt="Certificado" width="24"/> **AWS:Infraestrutura Elastica**](https://cursos.alura.com.br/formalCertificate/77f63adc-13fd-4548-96b6-e4fbcf0ba3fd)
+
