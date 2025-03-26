@@ -1,16 +1,22 @@
 ## Olá, seja bem vindo.
 ### Me chamo Icaro Caetano da Paixão Barros, 
 <br/>
-<p align="center" style="font-size: 300px;">Eu resolvo desafios usando a tecnologia.. <br><br> Sou um profisional de infraestrutura apaixonado por resolver problemas através da tecnologia. Gosto de enfrentar desafios usando soluções tecnológicas e estando em estudos constantes, busco aprimorar meus conhecimentos. Meu objetivo é me tornar um especialista de DevOps, adquirindo competências em ferramentas essencias, linguagens e boas práticas de melhoria contínua, integrando tudo isso aos fundamentos de desenvolvimento.</p>&nbsp;
+<p align="center" style="font-size: 300px;"><strong>A jornada é longa... Mas a paixão pelo conhecimento nos move todos os dias...</strong></p>
+<p align="left">- 🔭 Atualmente curso tecnólogo em DevOps e tenho dedicado meus estudos na área de Práticas DevOps e desenvolvimento backend<br>- 📚 Apaixonado por tecnologia, busco constantemente aprofundar meus conhecimentos através de cursos, projeto prático e muito estudo...<br>- ⚡ Estou em constante estudo, buscando aplicar melhores práticas com foco em performance, escalabilidade e segurança...</p>
+&nbsp;
 
-<div style="text-align: center;">
-    <img src="https://gaea.com.br/wp-content/uploads/2023/04/post_thumbnail-59518fdcba561b6ff53149b937759f99.jpeg" alt="Imagem de código" style="width 100px"; height: auto;">
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
- 
+<div align="center">
+  <a href="https://www.linkedin.com/in/paixao-barros/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:om" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
  &nbsp;
- &nbsp;
-
-
 
 ## Minhas Habilidades
 
@@ -55,17 +61,6 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
-
-<div> 
-</a>
-<a href = "mailto:om"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/paixao-barros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</a> 
-</div>&nbsp;&nbsp;
-
-
 ## 🏆 Certificados
 
-[<img src="https://cdn-icons-png.flaticon.com/512/1435/1435738.png" alt="Certificado" width="24"/> **AWS:Infraestrutura Elastica**](https://cursos.alura.com.br/formalCertificate/77f63adc-13fd-4548-96b6-e4fbcf0ba3fd)
 
