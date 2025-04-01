@@ -60,9 +60,12 @@
 
 &nbsp;
 &nbsp;
+## 📜 CERTIFICADOS
 
-## 🏆 Certificados
-[![Certificado](https://img.shields.io/badge/🏆-Amazon%20VPC:%20Redes%20na%20AWS-blue?style=for-the-badge)](https://cursos.alura.com.br/certificate/icaro-paixao/amazon-vpc-configurando-redes-aws)
+[🏅 DESENVOLVA APLICAÇÕES WEB USANDO JSX E HOOKS](https://cursos.alura.com.br/user/icaro-paixao/degree-react-jsx-hooks-702713/certificate)<br>
+[🏅 COMEÇANDO EM DEVOPS](https://cursos.alura.com.br/user/icaro-paixao/degree-primeiros-passos-devops-715314/certificate)
+
+
 
 
 
